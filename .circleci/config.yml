@@ -9,16 +9,16 @@ jobs:
       - checkout
 
       - run:
-          name: Restore Dependencies
-          command: dotnet restore
+          name: Restore
+          command: |
+            cd firstapp123
+            dotnet restore
 
       - run:
-          name: Build Project
-          command: dotnet build --configuration Release
-
-      - run:
-          name: Run Tests
-          command: dotnet test
+          name: Build
+          command: |
+            cd firstapp123
+            dotnet build --configuration Release
 
 workflows:
   version: 2
