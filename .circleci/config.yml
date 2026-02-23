@@ -11,13 +11,13 @@ jobs:
       - run:
           name: Restore
           command: |
-            cd firstapp123
+            cd firstapp
             dotnet restore
 
       - run:
           name: Build
           command: |
-            cd firstapp123
+            cd firstapp
             dotnet build --configuration Release
 
 workflows:
