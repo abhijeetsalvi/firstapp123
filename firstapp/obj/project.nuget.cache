@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+{
+  "version": 2,
+  "dgSpecHash": "1HgxjpvBPCs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\firstapp\\firstapp.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "x2i2TArU3kFLC2fWN3zklHqWNbfbQZ2EpSYP+Pd1NUGG8vqZZTlfLcZEIcS4biN1SzEgXY9gJvPtHaPOT3xl4w==",
+  "success": true,
+  "projectFilePath": "F:\\abc\\firstapp\\firstapp.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> ca78d86923ba769a9e9844e1022a69a4e30fa7d7
+}

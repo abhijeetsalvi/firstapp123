@@ -1,0 +1,16 @@
+F:\abc\firstapp\bin\Debug\net5.0\firstapp.exe
+F:\abc\firstapp\bin\Debug\net5.0\firstapp.deps.json
+F:\abc\firstapp\bin\Debug\net5.0\firstapp.runtimeconfig.json
+F:\abc\firstapp\bin\Debug\net5.0\firstapp.runtimeconfig.dev.json
+F:\abc\firstapp\bin\Debug\net5.0\firstapp.dll
+F:\abc\firstapp\bin\Debug\net5.0\ref\firstapp.dll
+F:\abc\firstapp\bin\Debug\net5.0\firstapp.pdb
+F:\abc\firstapp\obj\Debug\net5.0\firstapp.csprojAssemblyReference.cache
+F:\abc\firstapp\obj\Debug\net5.0\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+F:\abc\firstapp\obj\Debug\net5.0\firstapp.AssemblyInfoInputs.cache
+F:\abc\firstapp\obj\Debug\net5.0\firstapp.AssemblyInfo.cs
+F:\abc\firstapp\obj\Debug\net5.0\firstapp.csproj.CoreCompileInputs.cache
+F:\abc\firstapp\obj\Debug\net5.0\firstapp.dll
+F:\abc\firstapp\obj\Debug\net5.0\ref\firstapp.dll
+F:\abc\firstapp\obj\Debug\net5.0\firstapp.pdb
+F:\abc\firstapp\obj\Debug\net5.0\firstapp.genruntimeconfig.cache
